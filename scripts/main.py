@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from src import ana, ahkit
+from src import ana, ahkit, juping
 
 print("------------------")
 print("Project Manager")
@@ -9,3 +9,7 @@ print("------------------")
 
 print("Team Lead")
 ahkit.ahkit()
+print("------------------")
+
+print("QA/QC")
+juping.main()
