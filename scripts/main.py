@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from src import ana, ahkit
+from src import ana, ahkit, akari
 
 print("------------------")
 print("Project Manager")
