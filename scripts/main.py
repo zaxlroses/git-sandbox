@@ -10,3 +10,7 @@ print("------------------")
 print("Team Lead")
 ahkit.ahkit()
 print("------------------")
+
+print("Peacemaker")
+akari.main()
+print("------------------")
